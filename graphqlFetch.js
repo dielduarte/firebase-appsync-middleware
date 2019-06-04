@@ -1,4 +1,3 @@
-const print = require('graphql/language/printer');
 const fetch = require('node-fetch');
 
 const graphqlFetch = body => {
