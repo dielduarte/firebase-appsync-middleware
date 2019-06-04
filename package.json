@@ -1,0 +1,25 @@
+{
+  "name": "firebase-appsync-middleware",
+  "version": "1.0.0",
+  "description": "a node middleware to authenticate firebase users and send requests to appsync",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "micro-dev",
+    "start": "micro"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "micro-dev": "^3.0.0",
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "firebase-admin": "^8.0.0",
+    "graphql": "^14.3.1",
+    "micro": "^9.3.4",
+    "micro-mw": "^1.2.0",
+    "node-fetch": "^2.6.0"
+  }
+}
