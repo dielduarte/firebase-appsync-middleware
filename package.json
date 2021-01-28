@@ -19,6 +19,6 @@
     "firebase-admin": "^8.0.0",
     "micro": "^9.3.4",
     "micro-mw": "^1.2.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
